@@ -3,4 +3,6 @@
 
 Kodi kiegészítő a F1futamok.eu-hoz
 
+1.0.1 - os verzió kiszedése
+
 1.0.0 - Első verzió
